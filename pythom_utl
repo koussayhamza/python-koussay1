@@ -1,0 +1,11 @@
+#1. imprimer du texte :
+
+print("bonjour, monde !")
+
+#2.variables :
+
+# variables de type entier, flottant et chaine de caractères
+x = 10
+y = 3.14
+nom = "alice"
+print(x, y, nom)
